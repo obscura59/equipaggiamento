@@ -12,7 +12,7 @@
 ### Abbigliamento intimo
 
 * mutande
-* calzini
+* calzini leggeri e da trekking
 * sottotuta completo leggero
 
 ### Secondo strato
@@ -34,6 +34,12 @@
 * cappello con visiera e/o tese larghe
 * buff
 
+### Scarpe
+
+* scarpa avvicinamento
+* pedula
+* ciabatte
+
 #### Toilet
 
 * Crema solare alta protezione
@@ -44,30 +50,43 @@
 * liquido per lenti
 * occhiali da vista
 * sapone
+* carta igienica
+* salviette intime
 
 #### Accessori
 
+* coltellino multiuso
+* coltello da lavoro
 * occhiali da sole
 * guanti
 * kit primo soccorso
 * lampada da testa
 * borraccia
 * borraccia filtrante
+* sacca d'acqua
+* pastiglie per purificare l'acqua
+  
+  (microdyn o equivalente)
 * gps
 * orologio
-* bastoncini trecking
+* bastoncini trekking
 
 ### Campeggio
 
 * tenda
+* martello e pala
 * materassino
 * sacco a pelo
 * cuscino
 * fornello
 * kit cucina
+* liofilizzati
+* moka
 * kit piatti/posate
-* bicchiere
-
+* tazza termica e bicchiere
+* accendini e fiammiferi antivento
+* sacchi per l'immmondizia
+* taniche pieghevoli
 
 ### Extra
 
