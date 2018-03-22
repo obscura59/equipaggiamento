@@ -70,12 +70,15 @@
   
   (microdyn o equivalente)
 * repellente per insetti
-* gps
-* orologio
 * bastoncini trekking
-* mappe (portamappe impermeabile)
 * telo di emergenza (spaziale)
 * binocolo
+
+### Navigazione
+* gps
+* orologio
+* pannello solare
+* mappe (portamappe impermeabile)
 * radio
 
 ### Campeggio
