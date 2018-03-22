@@ -8,6 +8,7 @@
 * PATENTE DI GUIDA
 * BIGLIETTO AEREO
 * DENARO
+* PERMESSI
 
 ### Abbigliamento intimo
 
@@ -52,6 +53,7 @@
 * sapone
 * carta igienica
 * salviette intime
+* asciugamani sintetici
 
 #### Accessori
 
@@ -67,9 +69,14 @@
 * pastiglie per purificare l'acqua
   
   (microdyn o equivalente)
+* repellente per insetti
 * gps
 * orologio
 * bastoncini trekking
+* mappe (portamappe impermeabile)
+* telo di emergenza (spaziale)
+* binocolo
+* radio
 
 ### Campeggio
 
@@ -85,8 +92,10 @@
 * kit piatti/posate
 * tazza termica e bicchiere
 * accendini e fiammiferi antivento
+* contenitore stagno per fiammiferi
 * sacchi per l'immmondizia
 * taniche pieghevoli
+* nastro americano
 
 ### Extra
 
