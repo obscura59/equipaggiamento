@@ -13,7 +13,7 @@
 | Bimixin      | compresse             | 20 | bacitracina/neomicina    |            | diarrea con febbre                |
 | Lopemid      | compresse             | 15 | loperamide cloridrato    | 2 mg       | diarrea                           |
 | Aerius       | compresse             | 7  | desloratadina            | 5 mg       | allergia                          |
-| Fastjekt     | fiala                 | 1  | adrenalina               | 300mcg/2ml | allergia/shock                    |
+| Nexcare      | steri strip           | 4  | cerotti per suture       |            | ferite varie                      |
 | Citrosil     | fazzolettini imbevuti | 8  | benzalconio cloruro      |            | disinfettante cute e ferite       |
 | Tetramil     | collirio monodose     | 5  | terizolina/feniramina    |            | decongestionante/antinfiammatorio |
 | Proctosedyl  | tubo crema rettale    | 1  |                          | 20 g       | antiemorroidario                  |
