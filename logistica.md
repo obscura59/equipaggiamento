@@ -20,6 +20,8 @@
 * bastoncini trekking
 * telo di emergenza (spaziale)
 * binocolo
+* cordino 2 ÷ 4 mm
+* corda dinamica/statica
 
 ### Navigazione
 * gps
