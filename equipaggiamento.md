@@ -1,15 +1,6 @@
 # Lista materiali personali
 ## Spedizione estiva :sunny:
 
-### FONDAMENTALI!
-
-* PASSAPORTO
-* DOCUMENTO D'IDENTITÀ
-* PATENTE DI GUIDA
-* BIGLIETTO AEREO
-* DENARO
-* PERMESSI
-
 ### Abbigliamento intimo
 
 * mutande
