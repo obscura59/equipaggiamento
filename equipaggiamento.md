@@ -41,7 +41,7 @@
 * lenti a contatto
 * liquido per lenti
 * occhiali da vista
-* sapone
+* sapone (https://www.facebook.com/insulabodycare/)
 * carta igienica
 * salviette intime
 * asciugamani sintetici
