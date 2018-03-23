@@ -1,5 +1,5 @@
 # Lista materiali personali
-## Spedizione estiva
+## Spedizione estiva :sunny:
 
 ### FONDAMENTALI!
 
