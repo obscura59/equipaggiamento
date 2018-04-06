@@ -45,4 +45,5 @@
 * carta igienica
 * salviette intime
 * asciugamani sintetici
+* occorrente per radersi
 

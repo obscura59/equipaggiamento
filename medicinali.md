@@ -12,6 +12,7 @@
 | Normix       | compresse             | 24 | rifaximina               | 200 mg     | diarrea con febbre                |
 | Bimixin      | compresse             | 20 | bacitracina/neomicina    |            | diarrea con febbre                |
 | Lopemid      | compresse             | 15 | loperamide cloridrato    | 2 mg       | diarrea                           |
+| Polase       | bustine               | 15 | potassio/magnesio/sodio  | 5 mg       | diarrea/disidratazione            |
 | Aerius       | compresse             | 7  | desloratadina            | 5 mg       | allergia                          |
 | Nexcare      | steri strip           | 4  | cerotti per suture       |            | ferite varie                      |
 | Citrosil     | fazzolettini imbevuti | 8  | benzalconio cloruro      |            | disinfettante cute e ferite       |
